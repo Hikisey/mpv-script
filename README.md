@@ -30,7 +30,7 @@ The script searches for audio and subtitle tracks in separate folders and automa
 ### Folder structure
 
 <p align="center">
-  <img src="screenshots/1.png" width="600">
+  <img src="screenshots/1.png" width="700">
 </p>
 
 ### Result in mpv

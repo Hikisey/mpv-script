@@ -24,8 +24,8 @@ Paste `audio-subtitles.lua` into the `scripts` folder in your mpv configuration 
 ```
 
 ## How it works
-(screenshots/1.png)
-
+![Main-catalog](screenshots/1.png)
+Before
 ![Before](screenshots/before.png)
-
+After
 ![After](screenshots/after.png)

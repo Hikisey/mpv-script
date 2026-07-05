@@ -4,7 +4,7 @@ Add audio and subtitles from subfolders to a video in mpv.
 
 ## How to install
 
-Paste `audio-subtitles.lua` into the `scripts` folder in your mpv configuration directory.
+Copy the `scripts` folder from this repository into your mpv configuration directory.
 
 ## Default configuration directories
 
